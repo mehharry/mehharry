@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Completed my Full Stack Dev Course<br>🌱 I’m currently learning React <br>💬 Ask me about Tech Problems<br>📫 reach me: harry00s.hs@gmail.com@gmail.com
+🔭 Completed my Full Stack Dev Course<br>🌱 I’m currently learning React <br>💬 Ask me about Tech Problems<br>📫 reach me: harry00s.hs@gmail.com
 
 
 ## 🌐 Socials:
